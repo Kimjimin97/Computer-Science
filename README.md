@@ -1,2 +1,25 @@
 # Computer-Science
-CS 공부 기록용
+
+## 자바스크립트
+
+---
+
+### [] : 간략 주제 작성
+
+- 세부 주제 1 작성
+- 세부 주제 2 작성
+
+[WEEK01](https://github.com/limeunseop/TIL-Template/blob/master/WEEK01.md) : 1주차
+
+---
+
+### [2주차] : 간략 주제 작성
+
+- 세부 주제 1 작성
+- 세부 주제 2 작성
+
+[WEEK02](https://github.com/limeunseop/TIL-Template/blob/master/WEEK02.md) : 2주차
+
+## 네트워크
+
+---
