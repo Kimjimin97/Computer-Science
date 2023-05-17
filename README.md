@@ -4,22 +4,10 @@
 
 ---
 
-### [] : 간략 주제 작성
-
-- 세부 주제 1 작성
-- 세부 주제 2 작성
-
-[WEEK01](https://github.com/limeunseop/TIL-Template/blob/master/WEEK01.md) : 1주차
-
----
-
-### [2주차] : 간략 주제 작성
-
-- 세부 주제 1 작성
-- 세부 주제 2 작성
-
-[WEEK02](https://github.com/limeunseop/TIL-Template/blob/master/WEEK02.md) : 2주차
+[실행컨텍스트](https://github.com/Kimjimin97/Computer-Science/blob/main/Javascript/%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 
 ## 네트워크
 
 ---
+
+[실행컨텍스트]()
