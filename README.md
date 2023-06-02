@@ -13,8 +13,8 @@
 [http](https://github.com/Kimjimin97/Computer-Science/tree/main/Network)
 
 
-## FRONT-END
+## Frontend
 
 ---
 
-[SSR VS CSR](https://github.com/Kimjimin97/Computer-Science/tree/main/Network)
+[SSR VS CSR](https://github.com/Kimjimin97/Computer-Science/blob/main/Frontend/SSR_VS_CSR.md)
