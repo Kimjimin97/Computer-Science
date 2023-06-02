@@ -10,4 +10,11 @@
 
 ---
 
-[실행컨텍스트]()
+[http](https://github.com/Kimjimin97/Computer-Science/tree/main/Network)
+
+
+## FRONT-END
+
+---
+
+[SSR VS CSR](https://github.com/Kimjimin97/Computer-Science/tree/main/Network)
